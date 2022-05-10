@@ -1,7 +1,7 @@
 package com.example.mysqlite;
 
 public class DataBaseTables {
-    class DatabaseTables {
+    static class DatabaseTables {
 
         static class Mountain {
 
